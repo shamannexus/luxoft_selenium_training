@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-04T13:46:02Z" name="Surefire suite" finished-at="2019-10-04T13:46:15Z" duration-ms="13289">
+    <groups>
+    </groups>
+    <test started-at="2019-10-04T13:46:02Z" name="Surefire test" finished-at="2019-10-04T13:46:15Z" duration-ms="13289">
+      <class name="pl.luxoft.selenium.FirstSeleniumTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@659a969b]" started-at="2019-10-04T13:46:02Z" name="setUp" finished-at="2019-10-04T13:46:05Z" duration-ms="2793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchResultPageTitleContainSeachedText()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@659a969b]" started-at="2019-10-04T13:46:05Z" name="searchResultPageTitleContainSeachedText" finished-at="2019-10-04T13:46:15Z" duration-ms="9742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResultPageTitleContainSeachedText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@659a969b]" started-at="2019-10-04T13:46:15Z" name="tearDown" finished-at="2019-10-04T13:46:15Z" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pl.luxoft.selenium.FirstSeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
