@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.9 s <<< FAILURE! - in TestSuite
-searchResultPageTitleContainSeachedText(pl.luxoft.selenium.FirstSeleniumTest)  Time elapsed: 3.596 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at pl.luxoft.selenium.FirstSeleniumTest.searchResultPageTitleContainSeachedText(FirstSeleniumTest.java:48)
-
